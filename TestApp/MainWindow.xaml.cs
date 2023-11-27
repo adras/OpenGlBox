@@ -28,7 +28,7 @@ namespace TestApp
 
             openTk.Start(settings);
             openTk.Render += OpenTk_Render; ;
-    }
+        }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
